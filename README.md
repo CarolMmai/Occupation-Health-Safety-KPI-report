@@ -12,7 +12,7 @@
 ### Project Ojective
 ---
 
-This KPI report monitors Occupational Health & Safety metrics to ensure compliance and improve safety performance. Non-compliances are identified against targets, while areas of good performance are recognized and celebrated..
+This KPI report monitors Occupational Health & Safety metrics to ensure compliance and improve safety performance. Non-compliances are identified against targets, while areas of good performance are recognized and celebrated.
 
 This project showcases efficient collaboration by collecting and standardizing data from multiple team members through centralized platforms, making it ready for analysis
 
@@ -48,7 +48,7 @@ Power BI report development with continuous engagements of the Occupational Heal
 ---
 
 <p align="center">
-  <img src="https://github.com/CarolMmai/Late-Product-Deliveries-Analysis/blob/main/Power_BI_report_Late_product_delivery.gif" width="800" height="450" alt="Late Product Delivery Power BI Report">
+  <img src="https://github.com/CarolMmai/Occupation-Health-Safety-KPI-report/blob/main/Occupation-Health-Safety-KPI-report.gif" width="800" height="450" alt="Occupation-Health-Safety-KPI-report.gif">
 </p>
 
 
