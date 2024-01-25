@@ -1,4 +1,4 @@
-# Occupation-Health-Safety-KPI-report
+# Occupational-Health-Safety-KPI-report
 ---
 
 ![Excel](https://img.shields.io/badge/Tool-Microsoft_Excel-green?logo=microsoft-excel&logoColor=white&style=flat-square) <br>
